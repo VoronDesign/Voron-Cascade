@@ -1,5 +1,7 @@
 # Voron Cascade
-**[CLICK HERE TO DOWNLOAD](https://voron.zip/done/VC.zip)**
+
+[![Download the STLs](https://img.shields.io/badge/Download-the%20STLs-e3342b?style=for-the-badge)](https://voron.zip/done/VC.zip)
+
 
 ![Image of Voron Cascade](http://vorondesign.com/images/voron_cascade_bg.jpg)
 
